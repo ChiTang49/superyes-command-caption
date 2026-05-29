@@ -1,0 +1,3 @@
+display_name: SuperYes Command Caption CN
+short_description: Generate Chinese captions before commands.
+default_prompt: Use this skill whenever you are about to run a shell command for a Chinese-speaking user. First identify the command target, operation, impact, consequence, uncertainty, and advisory risk level, then show one concise Chinese caption before running the original command.

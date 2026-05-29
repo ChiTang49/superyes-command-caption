@@ -1,0 +1,3 @@
+display_name: SuperYes Command Caption EN
+short_description: Generate English captions before commands.
+default_prompt: Use this skill whenever you are about to run a shell command for an English-speaking user. First identify the command target, operation, impact, consequence, uncertainty, and advisory risk level, then show one concise English caption before running the original command.
